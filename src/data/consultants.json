@@ -1,0 +1,141 @@
+[
+  {
+    "user": {
+      "skills": [
+        "Agile Testing",
+        "Agile Project Management",
+        "Agile Leadership",
+        "Digital",
+        "IT Operations",
+        "ITIL",
+        "Digital Project Management",
+        "Agile Portfolio & Project Management",
+        "Change Management",
+        "Lean Startup",
+        "Agile Scrum Leader",
+        "Agile & Waterfall Methodologies",
+        "Consulting",
+        "Application Lifecycle Management",
+        "Web Analytics",
+        "Coaching & Leadership",
+        "Business Acumen",
+        "Business Analysis",
+        "Devops",
+        "Agile Application Development",
+        "Service Delivery Management",
+        "Digital Project Management",
+        "Agile Leadership"
+      ],
+      "rating": 4.2,
+      "profile_picture": {
+        "source": "http://i.pravatar.cc/300"
+      },
+      "profile": {
+        "work_items": [
+          {
+            "organisation": {
+              "name": "SportChamps"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Australia Post"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Accenture Australia"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Accenture"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Shuffle Master"
+            }
+          }
+        ],
+        "project_count": 12,
+        "location": {
+          "subdivision": "NSW",
+          "name": null,
+          "id": "NSW",
+          "country_code": "AU",
+          "country": "Australia",
+          "city": "Crows Nest"
+        },
+        "headline": "Digital | People | Leadership"
+      },
+      "name": "Daniel Pavatich",
+      "id": 28027,
+      "hourly_rate": "30.00",
+      "daily_rate": "750.00",
+      "remote_work": false,
+      "current_availability": "FULL_TIME_AVAILABLE",
+      "currency": "aud"
+    }
+  },
+  {
+    "user": {
+      "skills": [],
+      "rating": 5,
+      "profile_picture": {
+        "source": "http://i.pravatar.cc/300"
+      },
+      "profile": {
+        "work_items": [
+          {
+            "organisation": {
+              "name": "AKQA"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Love Digital"
+            }
+          },
+          {
+            "organisation": {
+              "name": "FCB Global"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Saatchi & Saatchi"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Colenso BBDO"
+            }
+          },
+          {
+            "organisation": {
+              "name": "Intergen"
+            }
+          }
+        ],
+        "project_count": 7,
+        "location": {
+          "subdivision": "AUK",
+          "name": null,
+          "id": "AUK",
+          "country_code": "NZ",
+          "country": "New Zealand",
+          "city": "Auckland"
+        },
+        "headline": "Senior Project and Programme Manager"
+      },
+      "name": "Haydn Thomsen",
+      "id": 50265,
+      "hourly_rate": "80.00",
+      "daily_rate": "800.00",
+      "remote_work": true,
+      "current_availability": "PART_TIME_AVAILABLE",
+      "currency": "aud"
+    }
+  }
+]
